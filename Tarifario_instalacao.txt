@@ -1,0 +1,5 @@
+<tipo>	<precoHora>	<precoDia>
+BTT		1.00	6.00
+ESTRADA		1.50	8.00
+ELETRICA	3.00	15.00
+INFANTIL	0.75	4.00
