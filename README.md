@@ -18,8 +18,8 @@ seguintes carrega esses binários. Para repetir a instalação, apagar os `.dat`
 
 ## Antes de entregar
 
-Alterar `NN` em `constantes.h` (os três parâmetros do grupo são calculados a partir
-dele) e preencher `identificacao_grupo.txt`.
+Preencher o nome e o grupo em `identificacao_grupo.txt`. `NN` (97) está em `constantes.h`
+e os três parâmetros do grupo são calculados a partir dele.
 
 ## Organização do código
 

@@ -8,8 +8,8 @@
 /* ---------- Personalizacao por grupo ---------- */
 
 /* NN = (soma dos numeros de aluno do grupo) % 100.
-   ALTERAR para o valor do grupo (grupo de 1 aluno: 2 ultimos digitos). */
-#define NN 0
+   Grupo de 1 aluno, n. 25197: NN = 25197 % 100 = 97. */
+#define NN 97
 
 /* Numero maximo de bicicletas (nao terminadas) que o negocio pode gerir */
 #define CAPACIDADE_MAX (30 + (NN % 5) * 10)

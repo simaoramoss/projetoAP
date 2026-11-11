@@ -1,13 +1,13 @@
 Projeto Pratico - Algoritmos e Programacao 2026/27
 BikeRent - Gestao de Aluguer de Bicicletas
 
-Grupo: GR__            (preencher)
+Grupo: GR__            (preencher com o nome/numero do grupo)
 Elementos:
-  - ________ (n. de aluno ________)   (preencher)
+  - ________________ (n. de aluno 25197)   (preencher o nome)
 
-NN = (soma dos numeros de aluno) % 100 = __      (preencher)
+NN = (soma dos numeros de aluno) % 100 = 25197 % 100 = 97
 
 Parametros calculados (iguais aos de constantes.h):
-  CAPACIDADE_MAX         = 30 + (NN % 5) x 10 = __
-  LIMIAR_DIARIO          = 6 + (NN % 3)       = __ horas
-  DESCONTO_LONGA_DURACAO = 5 + (NN % 4) x 5   = __ %
+  CAPACIDADE_MAX         = 30 + (97 % 5) x 10 = 30 + 2 x 10 = 50
+  LIMIAR_DIARIO          = 6 + (97 % 3)       = 6 + 1       = 7 horas
+  DESCONTO_LONGA_DURACAO = 5 + (97 % 4) x 5   = 5 + 1 x 5   = 10 %
